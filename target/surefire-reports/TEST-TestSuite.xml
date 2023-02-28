@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="5.372" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.252" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire3597520513526342375\surefirebooter-20230227181415741_3.jar C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire3597520513526342375 2023-02-27T18-14-15_188-jvmRun1 surefire-20230227181415741_1tmp surefire_0-20230227181415741_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire17014129869796142289\surefirebooter-20230228174825143_3.jar C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire17014129869796142289 2023-02-28T17-48-24_638-jvmRun1 surefire-20230228174825143_1tmp surefire_0-20230228174825143_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Parthiban Obuli\eclipse-workspace\GoRestAutomation\target\test-classes;C:\Users\Parthiban Obuli\eclipse-workspace\GoRestAutomation\target\classes;C:\Users\Parthiban Obuli\.m2\repository\io\rest-assured\rest-assured\5.1.1\rest-assured-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\groovy\groovy\4.0.1\groovy-4.0.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\groovy\groovy-xml\4.0.1\groovy-xml-4.0.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Parthiban Obuli\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Parthiban Obuli\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Parthiban Obuli\.m2\repository\io\rest-assured\xml-path\5.1.1\xml-path-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\io\rest-assured\json-path\5.1.1\json-path-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\groovy\groovy-json\4.0.1\groovy-json-4.0.1.jar;C:\Users\Parthiban Obuli\.m2\repository\io\rest-assured\rest-assured-common\5.1.1\rest-assured-common-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar;C:\Users\Parthiban Obuli\.m2\repository\org\testng\testng\7.6.1\testng-7.6.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Parthiban Obuli\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Parthiban Obuli\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Parthiban Obuli\.m2\repository\org\webjars\jquery\3.6.0\jquery-3.6.0.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\scribejava\scribejava-apis\8.3.1\scribejava-apis-8.3.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\scribejava\scribejava-core\8.3.1\scribejava-core-8.3.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\scribejava\scribejava-java8\8.3.1\scribejava-java8-8.3.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar;C:\Users\Parthiban Obuli\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar;C:\Users\Parthiban Obuli\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar;C:\Users\Parthiban Obuli\.m2\repository\io\rest-assured\json-schema-validator\5.1.1\json-schema-validator-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\guava\guava\28.2-android\guava-28.2-android.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Parthiban Obuli\.m2\repository\org\checkerframework\checker-compat-qual\2.5.5\checker-compat-qual-2.5.5.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Parthiban Obuli\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\Parthiban Obuli\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\Parthiban Obuli\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\Parthiban Obuli\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\Parthiban Obuli\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\Parthiban Obuli\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\Parthiban Obuli\.m2\repository\org\json\json\20220924\json-20220924.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Parthiban Obuli\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Parthiban Obuli\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\Parthiban Obuli\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar;C:\Users\Parthiban Obuli\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\Parthiban Obuli\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Parthiban Obuli\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\Parthiban Obuli\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\Parthiban Obuli\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Parthiban Obuli\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Parthiban Obuli\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Parthiban Obuli\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\Parthiban Obuli\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire3597520513526342375\surefirebooter-20230227181415741_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Parthiban Obuli\AppData\Local\Temp\surefire17014129869796142289\surefirebooter-20230228174825143_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.17+10-LTS-269"/>
@@ -60,15 +60,15 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testCreateUser" classname="api.test.UserTests2" time="2.192">
+  <testcase name="testCreateUser" classname="api.test.UserTests3" time="3.84">
     <system-out><![CDATA[HTTP/1.1 201 Created
-Date: Mon, 27 Feb 2023 12:44:19 GMT
+Date: Tue, 28 Feb 2023 12:18:33 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 Cache-Control: max-age=0, private, must-revalidate
-etag: W/"4b2578ac4a8918f9a7eb02e088660789"
-location: https://gorest.co.in/public/v2/users/671501
+etag: W/"9daa087a8b7ff04eba2bd815e39e6ab0"
+location: https://gorest.co.in/public/v2/users/694762
 referrer-policy: strict-origin-when-cross-origin
 vary: Origin
 x-content-type-options: nosniff
@@ -76,22 +76,22 @@ x-download-options: noopen
 x-frame-options: SAMEORIGIN
 x-permitted-cross-domain-policies: none
 x-ratelimit-limit: 90
-x-ratelimit-remaining: 86
+x-ratelimit-remaining: 85
 x-ratelimit-reset: 1
-x-request-id: 8a387b40-fbfc-42ff-81d6-df4c84d5d2e0
-x-runtime: 0.078572
+x-request-id: 7f960688-ea67-424e-8e41-b466245eea48
+x-runtime: 0.079233
 x-xss-protection: 0
 CF-Cache-Status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=slYu%2BJHN8iVTVjoG868BKQFTKu72KCVpQGeYDXPoIV5%2FOO%2FfWrA9Grun2ETBXDt3FJhZ2JegADYS96R2PPitLb1cYSrli24jy32PAoLZm7LM6h9khZ9GulGyatQHuRE%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AYE9H9xBVPG5VI4sA7ySrWBJTmtQxpLhpkOVi9pGvPK%2FPR9t7P%2BQvOvYrcfs8yP3QBnFiJGanBnQlCMDj%2Bfn8la8WZoNnFpx1pzMB%2FgG2RBqnidgJyo3NbuYFgHx%2FaA%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 7a0102dee9333228-BOM
+CF-RAY: 7a091a7be8428507-BOM
 alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
 
 {
-    "id": 671501,
-    "name": "Luigi Romaguera",
-    "email": "robin.dach@example.com",
+    "id": 694762,
+    "name": "Anthony Beahan",
+    "email": "stuart.goodwin@example.com",
     "gender": "male",
     "status": "active"
 }
@@ -101,14 +101,14 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testGetUser" classname="api.test.UserTests2" time="0.409">
+  <testcase name="testGetUser" classname="api.test.UserTests3" time="0.449">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Mon, 27 Feb 2023 12:44:20 GMT
+Date: Tue, 28 Feb 2023 12:18:33 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 Cache-Control: max-age=0, private, must-revalidate
-etag: W/"4b2578ac4a8918f9a7eb02e088660789"
+etag: W/"9daa087a8b7ff04eba2bd815e39e6ab0"
 referrer-policy: strict-origin-when-cross-origin
 vary: Origin
 x-content-type-options: nosniff
@@ -118,34 +118,35 @@ x-permitted-cross-domain-policies: none
 x-ratelimit-limit: 90
 x-ratelimit-remaining: 89
 x-ratelimit-reset: 2
-x-request-id: 219875e5-a8cf-4ed2-a2fd-50b90d007fc0
-x-runtime: 0.066547
+x-request-id: ba767d2b-aa82-4516-8ed1-3af4110820d2
+x-runtime: 0.055957
 x-xss-protection: 0
 CF-Cache-Status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uQqidy7euILbGH%2FZSlaDFen9vbsr3OsqeayEU7Xrsmf%2FUvrFf9%2BGcqjGdqOhGhDqDI4wTEHFmg50FdLgjM9zP%2B%2FqBfh16uCS3U9ImtMAAxhSnlmQk6zbACObc5L9VUo%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8RcBLfd3XYhIW0rJHxSOg7umCJR54DN%2FFHt%2B5Xk%2FMY2AY6R2T5LJRdMWzlf9Wt53JxiGYysds3Ql%2Fi%2ByOMPEc2fHiHERfr5kc0wxwR5o0s72DeW7AEjy9%2BniGr%2Bm4VM%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 7a0102e1fec829ea-BOM
+CF-RAY: 7a091a7e7ea61bdd-BOM
 Content-Encoding: gzip
 alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
 
 {
-    "id": 671501,
-    "name": "Luigi Romaguera",
-    "email": "robin.dach@example.com",
+    "id": 694762,
+    "name": "Anthony Beahan",
+    "email": "stuart.goodwin@example.com",
     "gender": "male",
     "status": "active"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testUpdateUser" classname="api.test.UserTests2" time="0.475">
-    <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Mon, 27 Feb 2023 12:44:20 GMT
+  <testcase name="testPostCommentsByUser" classname="api.test.UserTests3" time="0.34">
+    <system-out><![CDATA[HTTP/1.1 201 Created
+Date: Tue, 28 Feb 2023 12:18:33 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 Cache-Control: max-age=0, private, must-revalidate
-etag: W/"1726fb3ec2a07434135d1900a50b89d8"
+etag: W/"e971f11a5e3b4092080b73af25f0f637"
+location: https://gorest.co.in/public/v2/posts/21831
 referrer-policy: strict-origin-when-cross-origin
 vary: Origin
 x-content-type-options: nosniff
@@ -155,49 +156,247 @@ x-permitted-cross-domain-policies: none
 x-ratelimit-limit: 90
 x-ratelimit-remaining: 88
 x-ratelimit-reset: 2
-x-request-id: 5374026c-cc7c-4421-8034-394218f5a433
-x-runtime: 0.122445
+x-request-id: 540116aa-9e61-4442-bb4d-3380ae5d12d5
+x-runtime: 0.060397
 x-xss-protection: 0
 CF-Cache-Status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=prhEu7NuH4EYXfKxUhZPUHE0mI%2Fdn%2FcC8s7UlyTyomGsocOT2mo%2FqG%2FLkNFho0zuFCikbIisYeiuzf9MQNr7EQOZj1TJvle5EvNBN6oWtGDVWLodQI1EMW025d4lsyM%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FxUo2tQppbIeFqB46KFoDlMGDIP4nnhXK%2FwNpMIq6XfkYG7zWtlce3yd6CSZdJu0ymq3t%2FO%2FMW9qGMCrsc0QmOVM9bJ8CvE%2FUA2SPuRfeqZ6Ybv02%2Bm%2BNECAiWqxUTk%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 7a0102e48df184d1-BOM
-Content-Encoding: gzip
+CF-RAY: 7a091a813971f3f9-BOM
 alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
 
 {
-    "email": "lauran.gaylord@example.com",
-    "name": "Damien Nader",
-    "gender": "female",
-    "status": "inactive",
-    "id": 671501
+    "id": 21831,
+    "user_id": 694762,
+    "title": "Parthiban-Title6",
+    "body": "Parthiban-Post Comments-Body6"
 }
+The User Posted Comments ID is: 21831
 ]]></system-out>
   </testcase>
-  <testcase name="testDeleteUser" classname="api.test.UserTests2" time="0.466">
-    <system-out><![CDATA[HTTP/1.1 204 No Content
-Date: Mon, 27 Feb 2023 12:44:21 GMT
+  <testcase name="testGetPostedCommentsByUser" classname="api.test.UserTests3" time="0.319">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2023 12:18:34 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
 Connection: keep-alive
-Cache-Control: no-cache
+Cache-Control: max-age=0, private, must-revalidate
+etag: W/"150bc13e3023792a3062f0f6b4ac1613"
 referrer-policy: strict-origin-when-cross-origin
 vary: Origin
 x-content-type-options: nosniff
 x-download-options: noopen
 x-frame-options: SAMEORIGIN
+x-links-current: https://gorest.co.in/public/v2/posts?page=1
+x-links-next: 
+x-links-previous: 
+x-pagination-limit: 10
+x-pagination-page: 1
+x-pagination-pages: 1
+x-pagination-total: 1
 x-permitted-cross-domain-policies: none
 x-ratelimit-limit: 90
 x-ratelimit-remaining: 87
 x-ratelimit-reset: 3
-x-request-id: c888ee50-53f7-46ba-9b3a-5bf0f77aa398
-x-runtime: 0.156110
+x-request-id: 6486d4d3-7658-495a-b54a-d937018c9ce6
+x-runtime: 0.053249
 x-xss-protection: 0
 CF-Cache-Status: DYNAMIC
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wwUoamF%2BTJrDJb8emYD64tkZhvYfFR4PcjQ%2B0mIEmCgSD27Q7SywEtjdP%2FJ0DQayjmnXdKxUd5eJtM4UWhzp6t2cQizsJyZj6%2BJTIM8%2FiBVgzNgPw%2Fb5Vf7KFyNQbqI%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=t3dUeA1c%2FJ8FCQKOetAyMTYL7rOcv2G%2F4Frb9BV14rT1QB4gUDdEGQzQAUmR0tTGG8q1nYhJ9VJk%2Fyezwe51CNnPW9axTd0Pwd%2ByF36cRPsNT27Le6cugR6k%2Bx2ZFVo%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 7a0102e75f688549-BOM
+CF-RAY: 7a091a83882385c0-BOM
+Content-Encoding: gzip
 alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+[
+    {
+        "id": 21831,
+        "user_id": 694762,
+        "title": "Parthiban-Title6",
+        "body": "Parthiban-Post Comments-Body6"
+    }
+]
+]]></system-out>
+  </testcase>
+  <testcase name="testGetAllUser" classname="api.test.UserTests3" time="0.361">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2023 12:18:34 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, private, must-revalidate
+etag: W/"7a409cd5654d1012784d0fe9c42c7690"
+referrer-policy: strict-origin-when-cross-origin
+vary: Origin
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-links-current: https://gorest.co.in/public/v2/users?page=1
+x-links-next: https://gorest.co.in/public/v2/users?page=2
+x-links-previous: 
+x-pagination-limit: 10
+x-pagination-page: 1
+x-pagination-pages: 253
+x-pagination-total: 2530
+x-permitted-cross-domain-policies: none
+x-ratelimit-limit: 90
+x-ratelimit-remaining: 86
+x-ratelimit-reset: 4
+x-request-id: cf005175-c79b-4fc3-a7d5-b71563667214
+x-runtime: 0.056204
+x-xss-protection: 0
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pMvHAHqYQVk6SLOvVdXr2FTB1Q2ghB%2FSKIlvMgw%2BzE%2BEniMbgHQWL0Wb0vTBRh7INVoTEtIgjPybFCxFgKCUoPBRLeBIChv1lywnLz7mD%2BNNJskXgwaryOWRmGuyATg%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7a091a856b34f56b-BOM
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+[
+    {
+        "id": 694762,
+        "name": "Anthony Beahan",
+        "email": "stuart.goodwin@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694751,
+        "name": "Bernie Pfannerstill Jr.",
+        "email": "ronny.gorczany@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694746,
+        "name": "Mrs. Kareem Langworth",
+        "email": "lincoln.gutmann@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694687,
+        "name": "Miss Caroll Gutkowski",
+        "email": "sidney.gerlach@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694673,
+        "name": "Carroll Cassin",
+        "email": "ed.pouros@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694657,
+        "name": "Ruben Greenholt",
+        "email": "shea.gusikowski@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694486,
+        "name": "Sueann Corwin",
+        "email": "reiko.bechtelar@example.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694421,
+        "name": "Rupinder Agarwal",
+        "email": "rupinder_agarwal@kerluke.net",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 694419,
+        "name": "Gopaal Dubashi",
+        "email": "gopaal_dubashi@beatty-mante.com",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694418,
+        "name": "Girika Adiga",
+        "email": "girika_adiga@carroll-wehner.name",
+        "gender": "male",
+        "status": "inactive"
+    },
+    {
+        "id": 694417,
+        "name": "Shobhana Shukla",
+        "email": "shukla_shobhana@bartoletti.co",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694416,
+        "name": "Gatik Gupta",
+        "email": "gupta_gatik@corwin.org",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 694415,
+        "name": "Kashyap Dubashi",
+        "email": "kashyap_dubashi@wisoky.info",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 694414,
+        "name": "Vijay Naik",
+        "email": "vijay_naik@luettgen-emard.org",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 694413,
+        "name": "Gov. Gurdev Gill",
+        "email": "gov_gurdev_gill@mann-smitham.info",
+        "gender": "male",
+        "status": "active"
+    },
+    {
+        "id": 694412,
+        "name": "Esha Singh",
+        "email": "singh_esha@stark-lesch.net",
+        "gender": "female",
+        "status": "active"
+    },
+    {
+        "id": 694411,
+        "name": "Geeta Agarwal Jr.",
+        "email": "jr_agarwal_geeta@huel.com",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 694410,
+        "name": "Ajeet Bhattathiri",
+        "email": "ajeet_bhattathiri@jacobs.net",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 694409,
+        "name": "Trilochan Arora",
+        "email": "arora_trilochan@mraz-corkery.info",
+        "gender": "female",
+        "status": "inactive"
+    },
+    {
+        "id": 694408,
+        "name": "Balagopal Iyengar",
+        "email": "iyengar_balagopal@rempel-frami.info",
+        "gender": "female",
+        "status": "inactive"
+    }
+]
 ]]></system-out>
   </testcase>
 </testsuite>

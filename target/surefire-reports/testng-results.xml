@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-27T18:14:16 IST" name="GoRestSuite" finished-at="2023-02-27T18:14:21 IST" duration-ms="4391">
+  <suite started-at="2023-02-28T17:48:26 IST" name="GoRestSuite" finished-at="2023-02-28T17:48:33 IST" duration-ms="6681">
     <groups>
     </groups>
-    <test started-at="2023-02-27T18:14:16 IST" name="GoRestTest" finished-at="2023-02-27T18:14:21 IST" duration-ms="4391">
-      <class name="api.test.UserTests2">
-        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTests2@431cd9b2]" started-at="2023-02-27T18:14:17 IST" name="setup" finished-at="2023-02-27T18:14:17 IST" duration-ms="616" status="PASS">
+    <test started-at="2023-02-28T17:48:26 IST" name="GoRestTest" finished-at="2023-02-28T17:48:33 IST" duration-ms="6681">
+      <class name="api.test.UserTests3">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:27 IST" name="setup" finished-at="2023-02-28T17:48:28 IST" duration-ms="1081" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCreateUser()[pri:1, instance:api.test.UserTests2@431cd9b2]" started-at="2023-02-27T18:14:17 IST" name="testCreateUser" finished-at="2023-02-27T18:14:19 IST" duration-ms="2178" status="PASS">
+        <test-method signature="testCreateUser()[pri:1, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:28 IST" name="testCreateUser" finished-at="2023-02-28T17:48:32 IST" duration-ms="3826" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateUser -->
-        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTests2@431cd9b2]" started-at="2023-02-27T18:14:19 IST" name="testGetUser" finished-at="2023-02-27T18:14:20 IST" duration-ms="406" status="PASS">
+        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:32 IST" name="testGetUser" finished-at="2023-02-28T17:48:32 IST" duration-ms="420" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUser -->
-        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTests2@431cd9b2]" started-at="2023-02-27T18:14:20 IST" name="testUpdateUser" finished-at="2023-02-27T18:14:20 IST" duration-ms="476" status="PASS">
+        <test-method signature="testPostCommentsByUser()[pri:3, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:32 IST" name="testPostCommentsByUser" finished-at="2023-02-28T17:48:32 IST" duration-ms="360" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testUpdateUser -->
-        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTests2@431cd9b2]" started-at="2023-02-27T18:14:20 IST" name="testDeleteUser" finished-at="2023-02-27T18:14:21 IST" duration-ms="467" status="PASS">
+        </test-method> <!-- testPostCommentsByUser -->
+        <test-method signature="testGetPostedCommentsByUser()[pri:4, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:32 IST" name="testGetPostedCommentsByUser" finished-at="2023-02-28T17:48:33 IST" duration-ms="319" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testDeleteUser -->
-      </class> <!-- api.test.UserTests2 -->
+        </test-method> <!-- testGetPostedCommentsByUser -->
+        <test-method signature="testGetAllUser()[pri:5, instance:api.test.UserTests3@5fb759d6]" started-at="2023-02-28T17:48:33 IST" name="testGetAllUser" finished-at="2023-02-28T17:48:33 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllUser -->
+      </class> <!-- api.test.UserTests3 -->
     </test> <!-- GoRestTest -->
   </suite> <!-- GoRestSuite -->
 </testng-results>

@@ -38,3 +38,70 @@
 18:14:20.744 [main] INFO  api.test.UserTests2 - Updated the User using Routes.Properties Method
 18:14:20.746 [main] INFO  api.test.UserTests2 - Deleting the User using Routes.Properties Method
 18:14:21.213 [main] INFO  api.test.UserTests2 - Deleted the User using Routes.Properties Method
+17:33:47.740 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:33:50.389 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:33:50.396 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:33:50.749 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:33:50.760 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:33:51.107 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:33:51.117 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:33:51.416 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:42:57.608 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:43:00.479 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:43:00.506 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:43:00.841 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:43:00.848 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:43:01.212 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:43:01.221 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:43:01.565 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:43:01.575 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:43:49.950 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:43:52.091 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:43:52.108 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:43:52.468 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:43:52.482 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:43:52.865 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:43:52.875 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:43:53.187 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:43:53.217 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:43:53.614 [main] INFO  api.test.UserTests3 - --Got the details of the 20 Users---
+17:44:36.064 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:44:38.269 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:44:38.284 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:44:38.676 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:44:38.686 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:44:39.050 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:44:39.058 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:44:39.438 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:44:39.442 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:44:39.754 [main] INFO  api.test.UserTests3 - --Got the details of the 20 Users---
+17:47:36.009 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:47:38.176 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:47:38.189 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:47:38.499 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:47:38.517 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:47:38.947 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:47:38.951 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:47:39.319 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:47:39.325 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:47:39.643 [main] INFO  api.test.UserTests3 - --Got the details of the 20 Users---
+17:47:50.885 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:47:53.719 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:47:53.734 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:47:54.079 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:47:54.084 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:47:54.409 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:47:54.420 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:47:54.753 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:47:54.762 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:47:55.055 [main] INFO  api.test.UserTests3 - --Got the details of the 20 Users---
+17:48:28.322 [main] INFO  api.test.UserTests3 - ---Creating the User---
+17:48:32.143 [main] INFO  api.test.UserTests3 - ---User has been Created---
+17:48:32.156 [main] INFO  api.test.UserTests3 - ---Getting the details of the User---
+17:48:32.575 [main] INFO  api.test.UserTests3 - ---Got the Details of the User---
+17:48:32.580 [main] INFO  api.test.UserTests3 - ---Posting an comments by the created User---
+17:48:32.940 [main] INFO  api.test.UserTests3 - ---Comments has been posted by the created User---
+17:48:32.944 [main] INFO  api.test.UserTests3 - --Getting the details of the Posted Comments by the Created User---
+17:48:33.262 [main] INFO  api.test.UserTests3 - --Got the details of the Posted Comments by the Created User---
+17:48:33.267 [main] INFO  api.test.UserTests3 - --Getting the details of the 20 Users---
+17:48:33.626 [main] INFO  api.test.UserTests3 - --Got the details of the 20 Users---

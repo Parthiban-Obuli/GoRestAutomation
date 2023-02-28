@@ -7,8 +7,9 @@
   <test thread-count="5" name="GoRestTest">
     <classes>
       <!--class name="api.test.UserTests"/-->
-      <!--class name="api.test.DataDrivenTest"-->
-      <class name="api.test.UserTests2"/>
+      <!--class name="api.test.DataDrivenTest"/-->
+      <!--class name="api.test.UserTests2"/-->
+      <class name="api.test.UserTests3"/>
     </classes>
   </test> <!-- GoRestTest -->
 </suite> <!-- GoRestSuite -->

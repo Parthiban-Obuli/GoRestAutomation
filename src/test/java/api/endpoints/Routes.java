@@ -15,4 +15,7 @@ public class Routes
 	static String get_url=base_url+"/{user_id}";
 	static String put_url=base_url+"/{user_id}";
 	static String delete_url=base_url+"/{user_id}";
+	static String post_comments_url=base_url+"/{user_id}"+"/posts";
+	static String get_posted_comments_url=base_url+"/{user_id}"+"/posts";
+	static String get_all_users=base_url;
 }
